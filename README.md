@@ -1,4 +1,17 @@
+## 👋 About Me
 
+I'm **Pulkit Dev Kagra**, a B.Tech student specializing in **Electronics & Communication Engineering (Artificial Intelligence & Machine Learning)**.
+
+I'm passionate about leveraging data and AI to solve real-world problems. My interests span **Data Science, Data Analytics, Machine Learning, Deep Learning, Natural Language Processing (NLP), and Generative AI**.
+
+Currently, I'm focused on:
+- 📚 Strengthening my fundamentals in Data Science and AI
+- 💻 Building end-to-end Machine Learning projects
+- 📊 Exploring data analysis and visualization
+- 🧩 Practicing Data Structures & Algorithms
+- 🌱 Continuously learning and improving through hands-on projects
+
+This GitHub serves as my learning journal, where I share projects, experiments, and everything I build along the way.
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/pulkit-dev-kagra-24a236335/) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:pulkitkagra01@gmail.com) 
 
